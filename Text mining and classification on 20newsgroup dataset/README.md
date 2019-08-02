@@ -1,6 +1,7 @@
-# Machine-learning-and-Data-analysis
+# Text mining and Text classification
 
-Projects and work completed using machine learning and data analysis.
+Dataset: 20newsgroup dataset containing approximately 20000 news articles of different categories.
 
-* Analysis on FIFA worldcup data using python libraries like Pandas and Numpy.
-
+Classification algorithms used are as follows:
+* Multinomial Naive Bayes
+* Support Vector Machine (SVM) with linear kernel

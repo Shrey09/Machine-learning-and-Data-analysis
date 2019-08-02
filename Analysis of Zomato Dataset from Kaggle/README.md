@@ -1,6 +1,10 @@
-# Machine-learning-and-Data-analysis
+# Zomato dataset analysis
 
-Projects and work completed using machine learning and data analysis.
+Dataset link:- https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
-* Analysis on FIFA worldcup data using python libraries like Pandas and Numpy.
+Algorithms used for predicting approx cost of eating for 2 people are as follows:
+* Decision tree regressor
+* Random forest regressor
+* Xgboost regressor
+
 
